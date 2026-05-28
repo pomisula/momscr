@@ -1,0 +1,4 @@
+# momscr
+
+
+init
