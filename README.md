@@ -30,10 +30,10 @@ Each instance records the complete numerical data required by the model.
 
 ## Environment
 
-- Windows 11;
-- C++17;
-- CMake 3.10 or later; and
-- [HiGHS](https://highs.dev/).
+- Windows 11
+- C++17
+- CMake 3.10 or later
+- [HiGHS](https://highs.dev/)
 
 Build and usage instructions will be added when the source code is released.
 
